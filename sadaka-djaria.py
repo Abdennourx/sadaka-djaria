@@ -949,7 +949,7 @@ def main():
     
         <a href="https://x.com/Titou__x" style="background-color: #000004; color: white; padding: 10px 48px; text-decoration: none; border-radius: 10px; display: inline-block;">X</a>
 
-        <a href="https://t.me/RakwanCodeRK" style="background-color: #D2B48C; color: white; padding: 10px 48px; text-decoration: none; border-radius: 10px; display: inline-block;">GroupCode</a>
+        <a href="https://t.me/RakwanCodeRK" style="background-color: #D2B48C; color: white; padding: 10px 15px; text-decoration: none; border-radius: 10px; display: inline-block;">GroupCode</a>
         
         
         
@@ -964,3 +964,4 @@ def main():
 if __name__ == '__main__':
 
     start_server(main , port=34346 ,debug=True)
+
